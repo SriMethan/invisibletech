@@ -1,1 +1,1 @@
-<?php include_once("home.py"); ?>
+<?php include_once("home.html"); ?>
